@@ -1,0 +1,26 @@
+﻿# Datasets & archives
+Data/
+data/
+*.zip
+
+# Trained models (big files)
+models/*.pt
+*.pth
+*.h5
+
+# Keep demo results in repo 
+# results/
+# *.mp4
+
+# Python/IDE noise
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.venv/
+env/
+*.egg-info/
+.DS_Store
+.vscode/
+.idea/
